@@ -76,6 +76,11 @@
 </p>
 <hr>
 
+<p align="center">
+  <img align="center" src="./profile-3d-contrib/profile-night-rainbow.svg">
+</p>
+<hr>
+
 <p><a href="https://cultofthepartyparrot.com">Party Parrot</a>:</p>
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/wave1parrot.gif" width="30" height="30">
