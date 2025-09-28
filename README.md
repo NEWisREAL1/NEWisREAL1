@@ -103,8 +103,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/wave5parrot.gif" width="30" height="30">
     <img src="https://cultofthepartyparrot.com/parrots/wave6parrot.gif" width="30" height="30">
     <img src="https://cultofthepartyparrot.com/parrots/wave7parrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/wave8parrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/wave9parrot.gif" width="30" height="30">
 </div>
 <hr>
 <p>README Template Credits: <a href="https://github.com/Akash-chowrasia">Akash chowrasia</a></p>
