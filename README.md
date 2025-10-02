@@ -14,7 +14,7 @@
   <em>
     A <b>third year</b> <a href="https://www.cpe.kmutt.ac.th/en/"><b>Computer Engineering</b></a> undergraduate from <a href="https://www.kmutt.ac.th/en"><b>King Mongkut's University of Technology Thonburi (KMUTT)</b></a>, Thailand. <br>
     Obsessed with the beauty of <b>Mathematics</b> and <b>Algorithms</b>, enjoy creating <b>Generative and Procedural Arts</b>, <br>
-    currently interested in <b>Data Science</b>, <b>Machine Learning</b>, <b>Computer Graphics</b>, and <b>CAGD</b> 
+    currently interested in (studying) <b>Data Science</b>, <b>Machine Learning</b>, <b>Computer Graphics</b>, and <b>CAGD</b> 
   </em> 
   <br>
 </p>
