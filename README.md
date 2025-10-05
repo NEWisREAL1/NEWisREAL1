@@ -6,8 +6,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kasidit "New" Boonpornpichet</h1>
 <h3 align="center">⚙️Computer Engineer | ✨Math & Data Science Enthusiast | 🎨Generative Art</h3>
 <p align="center">
- <a href="https://example.com"><img align="center" src="https://simpleicons.org/icons/facebook.svg" height="30" width="40"></a>
- <a href="mailto: acc.newisreal@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"></a>
+  <a href="mailto: acc.newisreal@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"></a>
+  <a href="https://www.facebook.com/kasidit.boon.9"><img align="center" src="https://simpleicons.org/icons/facebook.svg" height="30" width="40"></a>
+  <a href="https://x.com/REALisNEW"><img align="center" src="https://simpleicons.org/icons/x.svg" height="30" width="40"></a>
 </p>
 <p></p>
 <p align="center">
