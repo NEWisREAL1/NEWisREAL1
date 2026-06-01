@@ -39,7 +39,7 @@
 <p>
         <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /></a></code>
         <code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></a></code>
-        <code><a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /></a></code>code>
+        <code><a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /></a></code>
         <code><a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a></code>
         <code><a href="https://www.wolfram.com/language/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wolfram/wolfram-original.svg" /></a></code>
         <code><a href="https://en.wikipedia.org/wiki/HTML5"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a></code>
