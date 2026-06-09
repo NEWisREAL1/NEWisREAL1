@@ -3,7 +3,7 @@
 </p>
 
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kasidit "New" Boonpornpichet</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2tqNWh1amszdThteWt3dzhnenhuN2gyM2tzMGI2dG1ia255emljMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sDd9ud8St0E2muGv5G/giphy.gif" width="30px">, I'm Kasidit "New" Boonpornpichet</h1>
 <h3 align="center">⚙️Computer Engineer | ✨Math & Data Science Enthusiast | 🎨Generative Art</h3>
 <p align="center">
   <a href="mailto: acc.newisreal@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"></a>
@@ -13,7 +13,7 @@
 <p></p>
 <p align="center">
   <em>
-    A <b>third year</b> <a href="https://www.cpe.kmutt.ac.th/en/"><b>Computer Engineering</b></a> undergraduate from <a href="https://www.kmutt.ac.th/en"><b>King Mongkut's University of Technology Thonburi (KMUTT)</b></a>, Thailand. <br>
+    A senior <a href="https://www.cpe.kmutt.ac.th/en/"><b>Computer Engineering</b></a> undergraduate from <a href="https://www.kmutt.ac.th/en"><b>King Mongkut's University of Technology Thonburi (KMUTT)</b></a>, Thailand. <br>
     Obsessed with the beauty of <b>Mathematics</b> and <b>Algorithms</b>, enjoy creating <b>Generative and Procedural Arts</b>, <br>
     currently interested in (studying) <b>Data Science</b>, <b>Machine Learning</b>, <b>Computer Graphics</b>, and <b>CAGD</b> 
   </em> 
@@ -66,6 +66,7 @@
 </p>
 <hr>
 
+<!---
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzU3OGw2eDZ3ZHBncms1czd5Mm15b2pxdTdzZTZ0YnV3bXlvaDF5aCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ciJ7GrPZeuFmwrrpqu/giphy.gif" width="50px" alt="koba">&nbsp;
   <i><b>< GitHub Stats ></b></i> &nbsp;
@@ -83,6 +84,7 @@
   <img align="center" src="./profile-3d-contrib/profile-night-rainbow.svg">
 </p>
 <hr>
+--->
 
 <p><a href="https://cultofthepartyparrot.com">Party Parrot</a>:</p>
 <div>
@@ -113,5 +115,5 @@
     <img src="https://cultofthepartyparrot.com/parrots/wave7parrot.gif" width="30" height="30">
 </div>
 <hr>
-<p>README Template Credits: <a href="https://github.com/Akash-chowrasia">Akash chowrasia</a></p>
-<p>Last Edited on: 01/06/2026</p>
+<p>README Template by <a href="https://github.com/Akash-chowrasia">Akash chowrasia</a></p>
+<p>Last Edited on: 09/06/2026</p>
